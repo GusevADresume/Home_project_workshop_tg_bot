@@ -1,0 +1,1 @@
+pyuic5.exe -x ui_imagedialog.ui -o D:\my\resume\for git resume\Home_project_PyQT5_Tg\ui_imagedialog.py
